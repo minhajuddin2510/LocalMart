@@ -15,7 +15,7 @@ The objective of this project is to develop a general purpose online store for l
 -Change the values in connection.php with your database credentials.
 
 ``````
-
+Local Mart Preview - http://localmart.epizy.com/
 
 ### Credits
 https://github.com/veeresh08
